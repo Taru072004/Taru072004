@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-
-- 🔭 I’m currently working on ...# Hi, I'm Aryan Shreeharsh 👋
+ Hi, I'm Aryan Shreeharsh 👋
 
 🎓 Computer Engineering Student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
